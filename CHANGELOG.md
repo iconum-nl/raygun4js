@@ -1,3 +1,7 @@
+* v2.19.0
+  - Adds new custom timings support which enables Custom Timings to work with SPA's and regardless of page loads
+  - Adds automatic support for tracking performance.measure calls as custom timings
+
 * v2.18.2
   - Fixes an issue with first-paint being calculated incorrectly for Edge/IE browsers
 
